@@ -1,0 +1,10 @@
+# 環境変数
+**/.env
+
+
+# OS関連
+.DS_Store
+
+# Node.js関連
+node_modules/
+dist/
